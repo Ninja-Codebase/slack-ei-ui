@@ -96,41 +96,41 @@ export const sidebarItems: NavGroup[] = [
     id: 2,
     label: "Pages",
     items: [
-      {
-        title: "Email",
-        url: "/dashboard/mail",
-        icon: Mail,
-      },
-      {
-        title: "Chat",
-        url: "/dashboard/chat",
-        icon: MessageSquare,
-      },
-      {
-        title: "Calendar",
-        url: "/dashboard/calendar",
-        icon: Calendar,
-      },
-      {
-        title: "Kanban",
-        url: "/dashboard/kanban",
-        icon: Kanban,
-      },
-      {
-        title: "Invoice",
-        url: "/dashboard/invoice",
-        icon: ReceiptText,
-      },
+      // {
+      //   title: "Email",
+      //   url: "/dashboard/mail",
+      //   icon: Mail,
+      // },
+      // {
+      //   title: "Chat",
+      //   url: "/dashboard/chat",
+      //   icon: MessageSquare,
+      // },
+      // {
+      //   title: "Calendar",
+      //   url: "/dashboard/calendar",
+      //   icon: Calendar,
+      // },
+      // {
+      //   title: "Kanban",
+      //   url: "/dashboard/kanban",
+      //   icon: Kanban,
+      // },
+      // {
+      //   title: "Invoice",
+      //   url: "/dashboard/invoice",
+      //   icon: ReceiptText,
+      // },
       {
         title: "Users",
         url: "/dashboard/users",
         icon: Users,
       },
-      {
-        title: "Roles",
-        url: "/dashboard/roles",
-        icon: Lock,
-      },
+      // {
+      //   title: "Roles",
+      //   url: "/dashboard/roles",
+      //   icon: Lock,
+      // },
       {
         title: "Authentication",
         url: "/auth",
