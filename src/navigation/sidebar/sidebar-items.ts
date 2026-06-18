@@ -160,16 +160,16 @@ export const sidebarItems: NavGroup[] = [
       },
     ],
   },
-  {
-    id: 4,
-    label: "Misc",
-    items: [
-      {
-        title: "Others",
-        url: "/dashboard/coming-soon",
-        icon: SquareArrowUpRight,
-        comingSoon: true,
-      },
-    ],
-  },
+  // {
+  //   id: 4,
+  //   label: "Misc",
+  //   items: [
+  //     {
+  //       title: "Others",
+  //       url: "/dashboard/coming-soon",
+  //       icon: SquareArrowUpRight,
+  //       comingSoon: true,
+  //     },
+  //   ],
+  // },
 ];
