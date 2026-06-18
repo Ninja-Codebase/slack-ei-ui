@@ -14,6 +14,7 @@ import {
   Mail,
   MessageSquare,
   ReceiptText,
+  Settings,
   ShoppingBag,
   SquareArrowUpRight,
   Users,
@@ -50,7 +51,12 @@ export const sidebarItems: NavGroup[] = [
     label: "Dashboards",
     items: [
       {
-        title: "Default",
+        title: "Configuration",
+        url: "/dashboard/crm",
+        icon: Settings,
+      },
+      {
+        title: "Dashboard",
         url: "/dashboard/default",
         icon: LayoutDashboard,
       },
