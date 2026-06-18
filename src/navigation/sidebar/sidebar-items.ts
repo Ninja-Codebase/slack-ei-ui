@@ -52,7 +52,7 @@ export const sidebarItems: NavGroup[] = [
     items: [
       {
         title: "Configuration",
-        url: "/dashboard/crm",
+        url: "/dashboard/configuration",
         icon: Settings,
       },
       {
